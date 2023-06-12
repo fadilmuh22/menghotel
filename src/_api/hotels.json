@@ -1,12 +1,15 @@
 [
-	{ "id": "1", "hotel_name": "Bosphorus Hotel" },
-	{ "id": "2", "hotel_name": "Big Istanbul Hotel" },
-	{ "id": "3", "hotel_name": "Dela Hotel" },
-	{ "id": "4", "hotel_name": "Aegean Hotel" },
-	{ "id": "5", "hotel_name": "Lara Hotel" },
-	{ "id": "6", "hotel_name": "Bodrum Hotel" },
-	{ "id": "7", "hotel_name": "Visnezade Istanbul Hotel" },
-	{ "id": "8", "hotel_name": "Konak Istanbul Hotel" },
-	{ "id": "9", "hotel_name": "Dardania Hotel" },
-	{ "id": "10", "hotel_name": "Alanya Hotel" }
+  { "id": "1", "hotel_name": "Hotel Indonesia Kempinski" },
+  { "id": "2", "hotel_name": "Hotel Borobudur Jakarta" },
+  { "id": "3", "hotel_name": "Ritz-Carlton Jakarta, Pacific Place" },
+  { "id": "4", "hotel_name": "Grand Hyatt Jakarta" },
+  { "id": "5", "hotel_name": "Mandarin Oriental Jakarta" },
+  { "id": "6", "hotel_name": "Shangri-La Hotel Jakarta" },
+  {
+    "id": "7",
+    "hotel_name": "The Mulia, Mulia Resort & Villas - Nusa Dua, Bali"
+  },
+  { "id": "8", "hotel_name": "The Ritz-Carlton Bali" },
+  { "id": "9", "hotel_name": "Ayana Resort and Spa - Bali" },
+  { "id": "10", "hotel_name": "Banyan Tree Ungasan, Bali" }
 ]
